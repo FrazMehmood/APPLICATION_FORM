@@ -1,0 +1,268 @@
+.bdy{
+    background-color: antiquewhite;
+}
+.hd{
+    padding: 10px;
+    background-image: linear-gradient(rgb(231, 120, 120), rgb(215, 233, 150), gray );
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 300;
+    color:rgb(221, 133, 18);
+}
+.form{
+    padding: 10px 5px 10px 5px;
+    color: rgb(187, 37, 0);
+    font-size: large;
+    /* border: 3px solid rgb(145, 130, 0);  */
+}
+/* .fld{
+    padding: 2px;
+    border: 7px solid rgb(206, 31, 31);
+    background-color: aqua;
+} */
+.lg{
+    background-color: rgb(255, 218, 170);
+    color: rgb(221, 133, 18);
+}
+.name{
+    padding: 20px;
+    margin-left: 80px;
+}
+.f_name{
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    margin-right: 50px;
+    background-color: rgb(255, 248, 240);
+}
+.f_name:hover{
+    border: 2px solid rgb(145, 145, 228);
+}
+
+.l_name{
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.l1{
+    margin-right: 38px;
+}
+.l2{
+    margin-right: 38px;
+}
+.l_name:hover{
+    border: 2px solid rgb(145, 145, 228);
+}
+.dt{
+    padding: 20px;
+    margin-left: 80px;
+}
+.date{
+    background-image:radial-gradient(rgb(255, 255, 255),rgb(235, 202, 156),rgb(221, 133, 18));
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+}
+.date:hover{
+    border: 2px solid rgb(145, 145, 228);
+}
+.l4{
+    margin-right: 24px;
+}
+.eml{
+    padding: 20px;
+    margin-left: 80px;
+}
+.email{
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.email:hover{
+    border: 2px solid rgb(145, 145, 228);
+
+}
+.l3{
+    margin-right: 50px;
+}
+.tel{
+    padding: 20px;
+    margin-left: 80px;
+}
+.number{
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.number:hover{
+    border: 2px solid rgb(145, 145, 228);
+}
+.gender{
+    padding: 20px;
+    margin-left: 80px;
+}
+.gnd{
+    margin-left: 65px;
+}
+.address{
+    padding: 20px;
+    margin-left: 80px;
+}
+.l5{
+    vertical-align: top;
+    margin-right: 35px;
+}
+.txtarea{
+    border: 1px solid rgb(224, 113, 8);
+    background-color: rgb(255, 248, 240);
+
+}
+.cntry{
+    padding: 20px;
+    margin-left: 80px;
+}
+#Country-Choice{
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    margin-right: 50px;
+    margin-left: 10px;
+    padding-left: 35px;
+    background-color: rgb(255, 248, 240);
+    
+}
+.qualification{
+    padding: 20px;
+    margin-left: 80px;
+}
+#Board{
+    margin-left: 180px;
+    margin-right: 170px;
+    vertical-align: bottom;
+}
+#year{
+    margin-left: 150px;
+    vertical-align: bottom;
+}
+#gpa{
+    vertical-align: bottom;
+}
+.Board{
+    margin-left: 80px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.brd{
+    margin-left: 100px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.gpa{
+    margin-left: 80px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.year{
+    margin-left: 80px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.Brd{
+    margin-left: 100px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.board{
+    margin-left: 127px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.brd{
+    margin-left: 92px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.Bord{
+    margin-left: 65px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+}
+.course{
+    padding: 20px;
+    margin-left: 80px;
+}
+.courses{
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(224, 113, 8);
+    box-shadow: 2px 2px 2px rgb(153, 153, 153);
+    padding-right: 40px;
+    background-color: rgb(255, 248, 240);
+}
+.list{
+    list-style:square;
+    list-style-image: radial-gradient(rgb(255, 255, 255), rgb(245, 204, 158), rgb(253, 122, 0) );
+    line-height: 35px;
+}
+.buttons{
+    text-align: right;
+    padding: 30px;
+    margin-right: 140px;
+    display: block;
+}
+.sub{
+    background-color: rgb(235, 202, 156);
+    padding: 10px 15px;
+    border: 1px solid rgb(175, 115, 2);
+    border-radius: 20px;
+    margin-right:10px ;
+}
+.reset{
+    background-color: rgb(235, 202, 156);
+    padding: 10px 15px;
+    border: 1px solid rgb(175, 115, 2);
+    border-radius: 20px;
+}
